@@ -12,7 +12,7 @@
 * 点击齿轮图标菜单下的 **扩展**
 * 搜索 **https://github.com/chengjun/jumpy-platformer** 并导入
 
-## 编辑此项目 ![构建状态标志](https://github.com/chengjun/jumpy-platformer/workflows/MakeCode/badge.svg)
+## 编辑此项目 
 
 在 MakeCode 中编辑此仓库。
 
@@ -25,7 +25,9 @@
 此图像显示主分支中最后一次提交的块代码。
 此图像可能需要几分钟才能刷新。
 
-![块的渲染视图](https://github.com/chengjun/jumpy-platformer/raw/master/.github/makecode/blocks.png)
+
+![image](https://user-images.githubusercontent.com/543384/224456778-315cf914-9411-41fd-ba13-5bc3994ddf9d.png)
+
 
 #### 元数据（用于搜索、渲染）
 
